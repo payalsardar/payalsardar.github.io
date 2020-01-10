@@ -1,16 +1,15 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Aditi</strong> Singh
+description: <a href="https://www.iitk.ac.in/ee/">Department of Electrical Engineering, IIT Kanpur</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>CV Lab, ACES Building</p>
+    <p>IIT Kanpur</p>
 
 news: true
 social: true
