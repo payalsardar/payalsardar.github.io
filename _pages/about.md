@@ -9,12 +9,12 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>CV Lab, ACES Building</p>
-    <p>IIT Kanpur</p>
+    <p>Indian Institute of Technology Kanpur</p>
 
-news: false
+news: true
 social: true
 ---
 
-I am a final-year BT-MT Dual Degree student at IIT Kanpur.
-
+I am a final-year BT-MT Dual Degree student at IIT Kanpur. My current research is based on some miscellaneous theoretical problems involving functions and sets in general and signal processors in particular. I have also worked in the fields of Human-Centered Computing during an internship at <a href="https://www.ufl.edu/">University of Florida</a> and in Image Processing at IIT Kanpur.
+I am intrigued by anything intellectual, be it puzzles, algorithms, research problems or any social/public policy.
 
