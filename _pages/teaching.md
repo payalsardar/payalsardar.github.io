@@ -5,4 +5,4 @@ title: Miscellaneous
 description: Individual Work
 ---
 
-To be updates soon
+To be updated soon
