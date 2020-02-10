@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 permalink: /
 title: <strong>Aditi</strong> Singh
 description: <a href="https://www.iitk.ac.in/ee/">Department of Electrical Engineering, IIT Kanpur</a>. 
