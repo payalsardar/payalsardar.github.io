@@ -1,12 +1,12 @@
 ---
 layout: about
 permalink: /
-title: <strong>Aditi</strong> Singh
+title: Payal Sardar
 description: <a href="https://www.iitk.ac.in/ee/">Department of Electrical Engineering, IIT Kanpur</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: iitk_logo.jpg
   address: >
     <p>CV Lab, ACES Building</p>
     <p>Indian Institute of Technology Kanpur</p>
