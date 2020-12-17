@@ -2,20 +2,20 @@
 layout: about
 permalink: /
 title: Payal Sardar
-description: <a href="https://www.iitk.ac.in/ee/">Department of Electrical Engineering, IIT Kanpur</a>. 
+description:  R.A., B. Pharm. Looking for full time opportnuites in Regulatory Affairs
 
 profile:
   align: right
-  image: iitk_logo.jpg
+  image: iitk_logo.png
   address: >
-    <p>CV Lab, ACES Building</p>
-    <p>Indian Institute of Technology Kanpur</p>
+    <p> </p>
+    <p> </p>
 
-news: true
+news: false
 social: true
 ---
 
-I am a final-year BT-MT Dual Degree student at IIT Kanpur. My current research is based on some miscellaneous theoretical problems involving functions and sets in general and signal processors in particular. I have also worked in the fields of Human-Centered Computing during an internship at <a href="https://www.ufl.edu/">University of Florida</a> and in Image Processing at IIT Kanpur.
+I am a graduate of Algonquin College of Applied Arts and Technology in Ottawa, Canada in the field of Regaulatory Affairs. Prior to this, I whad been working at IKS Healthcare in Mumbai, India. I am also an experienced Barista with a demonstrated history of working in the retail industry. I am skilled in Customer Satisfaction, Pharmacy, Time Management, Team Leadership, and Customer Service. 
 
-Topics that intrigue me include, but are not limited to, puzzles, algorithms, innovations, research problems or any social/public policy.
+Topics that intrigue me include regulatory affairs, edible cannabis products, post market surveys.
 
