@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Payal Sardar
+title: <b>Payal Sardar</b>
 description:  R.A., B. Pharm. 
 
 profile:
