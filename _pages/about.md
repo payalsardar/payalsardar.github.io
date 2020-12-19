@@ -6,7 +6,7 @@ description:  R.A., B. Pharm.
 
 profile:
   align: right
-  image: iitk_logo.png
+  image: profile_pic.jpeg
   address: >
     <p> </p>
     <p> </p>
