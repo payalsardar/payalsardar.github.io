@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Course Projects
+title: Projects
 description: 
 ---
 
